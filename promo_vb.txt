@@ -1,30 +1,30 @@
 #SGBSell #SGBPromo #SGBVPS
-Jual VPS Lokasi US + VPS Panel
-
+Jual VPS Lokasi US  + VPS Panel (Harga Promo)
+Stok terbatas!
 ==================================
 VPS VB1
 - RAM 512 MB
 - CPU 1 Core
 - Disk 20 GB
-- Harga Rp.50.000 untuk sewa 3 bulan
+- Harga Rp.50.000 suntuk sewa 2 bulan
 
 VPS VB2
 - RAM 1 GB
 - CPU 1 Core
 - Disk 30 GB
-- Harga Rp.100.000 untuk sewa 3 bulan
+- Harga Rp.100.000 untuk sewa 2 bulan
 
 VPS VB3
 - RAM 2 GB
 - CPU 1 Core
 - Disk 40 GB
-- Harga Rp.150.000 untuk sewa 3 bulan
+- Harga Rp.150.000 untuk sewa 2 bulan
 
 VPS VB4
 - RAM 4 GB
 - CPU 1 Core
 - Disk 40 GB
-- Harga Rp.150.000 untuk sewa 3 bulan
+- Harga Rp.275.000 untuk sewa 2 bulan
 ==================================
 
 # Pilihan OS:
@@ -52,7 +52,7 @@ VPS VB4
 1. Installasi SSL (Rp.35.000/domain)
 -SSL Let's Encrypt (expired 3 Bulan bisa renew).
 2. Setting multi domain (Rp.10.000/domain).
--1 VPS bisa dipakai untuk banyak domain dan project (tergantung spesifikasi).
+-1 VPS bisa dipakai untuk banyak domain dan project (tergantung spesifikasi vps).
 
 # Rules:
 1.Dilarang Mining.
